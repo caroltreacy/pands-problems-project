@@ -6,7 +6,15 @@
 # insert variable
 
 import numpy as np
-import matplotlib.py as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd 
+
+from sklearn.datasets import load_iris
+
+iris = load_iris()
+iris
+plt.show()
+
+
 
