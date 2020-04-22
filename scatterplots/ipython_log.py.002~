@@ -1,0 +1,27 @@
+# IPython log file
+
+get_ipython().run_line_magic('logstart', '')
+import numpy as np
+import matplotlib.pyplot as plt
+a = 1
+b = 4
+c = -2
+l = np.arrange(0.0, 10.0, 0.5)
+import numpy as np
+import matplotlib.pyplot as plt
+l = np.arange(0.0, 10.0, 0.5)
+l
+plt.plot(l, l**"2)
+plt.plot(l, l**2)
+x = 5.006
+y = 3.428
+plt.plot(x, y)
+plt.plot(x,Y)
+plt.plot(x,y)
+x1 = 5.936
+y2 = 2.77
+x3 = 6.588
+y3 = 2.974
+plt.plot(x,y)(x1,y1)(x3,y3)
+clear
+exit()
