@@ -41,9 +41,10 @@ plt.savefig("hist4.png")
 plt.clf ()
 
 
-sna.scatterplot('x = mean', 'y = average')
+sns.scatterplot('x = mean', 'y = average')
 plt.savefig("Scatter2.png")
 plt.clf()
+
 
 
 
